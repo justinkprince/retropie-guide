@@ -2,7 +2,7 @@
 
 ## Overview
 
-The [Raspberry Pi Model B](https://en.wikipedia.org/wiki/Raspberry_Pi) is a credit card-sized single-board computer. Installed on it is [Retropie](https://retropie.org.uk/) which allows playing older game roms on various consoles via an emulator.
+The [Raspberry Pi Model B](https://en.wikipedia.org/wiki/Raspberry_Pi) is a credit card-sized single-board computer. Installed on it is [Retropie](https://retropie.org.uk/) which allows for playing older games on various consoles via an emulator.
 
 There are [104 NES games installed](installed-nes.md) currently out of [691 available NES games](available-nes.md).
 
