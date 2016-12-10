@@ -2,11 +2,11 @@
 
 ## Overview
 
-The [Raspberry Pi Model B](https://en.wikipedia.org/wiki/Raspberry_Pi) is a credit card-sized single-board computer. Installed on it is [Retorpie](https://retropie.org.uk/) which allows playing older game roms on various consoles via an emulator.
+The [Raspberry Pi Model B](https://en.wikipedia.org/wiki/Raspberry_Pi) is a credit card-sized single-board computer. Installed on it is [Retropie](https://retropie.org.uk/) which allows playing older game roms on various consoles via an emulator.
 
-There are [104 games installed](installed-nes.md) currently out of [691 available games](nes.md).
+There are [104 games installed](installed-nes.md) currently out of [691 available games](available-nes.md).
 
-There are [106 games installed](installed-snes.md) currently out of [764 available games](snes.md).
+There are [106 games installed](installed-snes.md) currently out of [764 available games](available-snes.md).
 
 Feel free to let me know if you'd like to any additional roms installed. I've found that installing all of them adds so much noise that it impedes finding the game your tryng to play. I recommend only installing the ones you actually plan on playing.
 
