@@ -24,6 +24,8 @@ Setting up the Retropie is relatively straightforward:
 8. Do not press any buttons on the game controller until the game loads.
 9. Play away.
 
+To turn off the Raspberry Pi, just unplug the micro USB charger cable.
+
 ## Navigating the system
 
 Certain button combinations on the game controller allow you to perform a variety of important functions. These combinations will work even while a game is playing.
