@@ -8,7 +8,7 @@ There are [104 NES games installed](installed-nes.md) currently out of [691 avai
 
 There are [106 SNES games installed](installed-snes.md) currently out of [764 available SNES games](available-snes.md).
 
-Feel free to let me know if you'd like to any additional roms installed. I've found that installing all of them adds so much noise that it impedes finding the game your tryng to play. I recommend only installing the ones you actually plan on playing.
+Feel free to let me know if you'd like to any additional roms installed. I've found that installing all of them adds so many low quality games that it impedes finding good games to play. I recommend only installing the ones you actually plan on playing.
 
 ## Getting started
 
